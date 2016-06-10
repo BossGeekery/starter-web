@@ -13,3 +13,7 @@ Sample website with plenty of files for demos. Main purpose is to learn.
 Simple web project, deployment can be on any web server or local file system.
 
 ## How to Contribute
+
+
+###Copyright
+2016 GitTraining
