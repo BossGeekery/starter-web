@@ -14,6 +14,7 @@ Simple web project, deployment can be on any web server or local file system.
 
 ## How to Contribute
 Please fork and issue pull requests for reviews
+More text here for rebasing
 
 ###Copyright
 2016 GitTraining
