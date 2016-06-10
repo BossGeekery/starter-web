@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Samwell Gamsey sam@gmey.com @samwell
 # THANKS
 
     <name>
