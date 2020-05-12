@@ -13,7 +13,7 @@ Sample website with plenty of files for demos. Main purpose is to learn.
 Simple web project, deployment can be on any web server or local file system.
 
 ## How to Contribute
-Please fork and issue pull requests for reviews
+Please fork this repository and issue pull requests for reviews
 More text here for rebasing, then more changes from myfeature branch too.
 
 ###Copyright
