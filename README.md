@@ -17,4 +17,4 @@ Please fork and issue pull requests for reviews
 More text here for rebasing, then more changes from myfeature branch too.
 
 ###Copyright
-2016 GitTraining
+2020 GitComplete Training
